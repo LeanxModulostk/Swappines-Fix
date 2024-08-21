@@ -1,0 +1,7 @@
+id=swappinesfix
+name=Swappines Fix
+version=1
+versionCode=1
+author=@LeanHijosdesusMadres
+description=This module gives more priority to some processes by decreasing the value of swappines so that they remain in RAM.
+support=https://t.me/modulostk
